@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/MarcoPolo/atom-paredit.png?label=ready&title=Ready)](https://waffle.io/MarcoPolo/atom-paredit)
 # Atom Paredit
 
+[![Join the chat at https://gitter.im/arnaudsj/atom-paredit](https://badges.gitter.im/arnaudsj/atom-paredit.svg)](https://gitter.im/arnaudsj/atom-paredit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Brings Paredit to atom!
 
 ![A screenshot of your spankin' package](http://cl.ly/image/0w2o1j0E0r0E/Screen%20Shot%202014-07-16%20at%208.19.36%20PM.png)
